@@ -1,0 +1,347 @@
+F:\Projects\ITI project\js\final project\API project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+F:\Projects\ITI project\js\final project\API project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+F:\Projects\ITI project\js\final project\API project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+F:\Projects\ITI project\js\final project\API project\project\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+F:\Projects\ITI project\js\final project\API project\project\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+F:\Projects\ITI project\js\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+F:\Projects\ITI project\js\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\ITI project\js\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+F:\Projects\ITI project\js\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+F:\Projects\ITI project\js\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+F:\Projects\ITI project\js\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CopyComplete
+F:\Projects\ITI project\js\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+F:\Projects\ITI project\js\final project\API project\project\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+F:\Projects\ITI project\js\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+F:\Projects\ITI project\js\final project\API project\project\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+C:\Users\infotech\Downloads\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+C:\Users\infotech\Downloads\final project\API project\project\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+C:\Users\infotech\Downloads\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+C:\Users\infotech\Downloads\final project\API project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+C:\Users\infotech\Downloads\final project\API project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+C:\Users\infotech\Downloads\final project\API project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+C:\Users\infotech\Downloads\final project\API project\project\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\infotech\Downloads\final project\API project\project\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\infotech\Downloads\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\infotech\Downloads\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infotech\Downloads\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\infotech\Downloads\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\infotech\Downloads\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\infotech\Downloads\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+C:\Users\infotech\Downloads\final project\API project\project\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+D:\project\final\final project\final project\API project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+D:\project\final\final project\final project\API project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+D:\project\final\final project\final project\API project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+D:\project\final\final project\final project\API project\project\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+D:\project\final\final project\final project\API project\project\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+D:\project\final\final project\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+D:\project\final\final project\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\final\final project\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+D:\project\final\final project\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+D:\project\final\final project\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+D:\project\final\final project\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.sourcelink.json
+D:\project\final\final project\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+D:\project\final\final project\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+D:\project\final\final project\final project\API project\project\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+D:\project\final\final project\final project\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+D:\project\final\final project\final project\API project\project\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+E:\Api\projectJavascript\API project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+E:\Api\projectJavascript\API project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+E:\Api\projectJavascript\API project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+E:\Api\projectJavascript\API project\project\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+E:\Api\projectJavascript\API project\project\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+E:\Api\projectJavascript\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+E:\Api\projectJavascript\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Api\projectJavascript\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+E:\Api\projectJavascript\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+E:\Api\projectJavascript\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+E:\Api\projectJavascript\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.sourcelink.json
+E:\Api\projectJavascript\API project\project\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+E:\Api\projectJavascript\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+E:\Api\projectJavascript\API project\project\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+E:\Api\projectJavascript\API project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+E:\Api\projectJavascript\API project\project\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+C:\Users\bokyb\Downloads\project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+C:\Users\bokyb\Downloads\project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+C:\Users\bokyb\Downloads\project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+C:\Users\bokyb\Downloads\project\project\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\bokyb\Downloads\project\project\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\bokyb\Downloads\project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\bokyb\Downloads\project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bokyb\Downloads\project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\bokyb\Downloads\project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\bokyb\Downloads\project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\bokyb\Downloads\project\project\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+C:\Users\bokyb\Downloads\project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+C:\Users\bokyb\Downloads\project\project\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+C:\Users\bokyb\Downloads\project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+C:\Users\bokyb\Downloads\project\project\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+C:\Users\bokyb\Downloads\project (1)\project\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+C:\Users\bokyb\Downloads\project (1)\project\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+C:\Users\bokyb\Downloads\project (1)\project\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+C:\Users\bokyb\Downloads\project (1)\project\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\bokyb\Downloads\project (1)\project\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\bokyb\Downloads\project (1)\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\bokyb\Downloads\project (1)\project\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bokyb\Downloads\project (1)\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\bokyb\Downloads\project (1)\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\bokyb\Downloads\project (1)\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\bokyb\Downloads\project (1)\project\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+C:\Users\bokyb\Downloads\project (1)\project\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+C:\Users\bokyb\Downloads\project (1)\project\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+C:\Users\bokyb\Downloads\project (1)\project\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+C:\Users\bokyb\Downloads\project (1)\project\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+C:\Users\nadae\Downloads\project (1)\project\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+C:\Users\nadae\Downloads\project (1)\project\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+C:\Users\nadae\Downloads\project (1)\project\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+C:\Users\nadae\Downloads\project (1)\project\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\nadae\Downloads\project (1)\project\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\nadae\Downloads\project (1)\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\nadae\Downloads\project (1)\project\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadae\Downloads\project (1)\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\nadae\Downloads\project (1)\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\nadae\Downloads\project (1)\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\nadae\Downloads\project (1)\project\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+C:\Users\nadae\Downloads\project (1)\project\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+C:\Users\nadae\Downloads\project (1)\project\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+C:\Users\nadae\Downloads\project (1)\project\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+C:\Users\nadae\Downloads\project (1)\project\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+C:\Users\bokyb\Downloads\Project\Project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+C:\Users\bokyb\Downloads\Project\Project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+C:\Users\bokyb\Downloads\Project\Project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+C:\Users\bokyb\Downloads\Project\Project\project\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\bokyb\Downloads\Project\Project\project\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\bokyb\Downloads\Project\Project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\bokyb\Downloads\Project\Project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bokyb\Downloads\Project\Project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\bokyb\Downloads\Project\Project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\bokyb\Downloads\Project\Project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\bokyb\Downloads\Project\Project\project\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+C:\Users\bokyb\Downloads\Project\Project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+C:\Users\bokyb\Downloads\Project\Project\project\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+C:\Users\bokyb\Downloads\Project\Project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+C:\Users\bokyb\Downloads\Project\Project\project\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+C:\Users\nadae\Downloads\Project\Project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+C:\Users\nadae\Downloads\Project\Project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+C:\Users\nadae\Downloads\Project\Project\project\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+C:\Users\nadae\Downloads\Project\Project\project\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\nadae\Downloads\Project\Project\project\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\nadae\Downloads\Project\Project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\nadae\Downloads\Project\Project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadae\Downloads\Project\Project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\nadae\Downloads\Project\Project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\nadae\Downloads\Project\Project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\nadae\Downloads\Project\Project\project\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+C:\Users\nadae\Downloads\Project\Project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+C:\Users\nadae\Downloads\Project\Project\project\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+C:\Users\nadae\Downloads\Project\Project\project\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+C:\Users\nadae\Downloads\Project\Project\project\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+E:\Finalllllllllllllllllllllll\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+E:\Finalllllllllllllllllllllll\project\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Finalllllllllllllllllllllll\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+E:\Finalllllllllllllllllllllll\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+E:\Finalllllllllllllllllllllll\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+E:\Finalllllllllllllllllllllll\project\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+E:\Finalllllllllllllllllllllll\project\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+E:\Finalllllllllllllllllllllll\project\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+E:\Finalllllllllllllllllllllll\project\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+E:\Finalllllllllllllllllllllll\project\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+E:\Finalllllllllllllllllllllll\project\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+E:\Finalllllllllllllllllllllll\project\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+E:\Finalllllllllllllllllllllll\project\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+E:\Finalllllllllllllllllllllll\project\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+E:\Finalllllllllllllllllllllll\project\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+E:\testtt\project\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+E:\testtt\project\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+E:\testtt\project\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+E:\testtt\project\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+E:\testtt\project\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+E:\testtt\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+E:\testtt\project\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\testtt\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+E:\testtt\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+E:\testtt\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+E:\testtt\project\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+E:\testtt\project\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+E:\testtt\project\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+E:\testtt\project\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+E:\testtt\project\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+E:\Designs_Front\project\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+E:\Designs_Front\project\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+E:\Designs_Front\project\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+E:\Designs_Front\project\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+E:\Designs_Front\project\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+E:\Designs_Front\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+E:\Designs_Front\project\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Designs_Front\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+E:\Designs_Front\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+E:\Designs_Front\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+E:\Designs_Front\project\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+E:\Designs_Front\project\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+E:\Designs_Front\project\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+E:\Designs_Front\project\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+E:\Designs_Front\project\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+C:\Users\nadae\Downloads\project\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+C:\Users\nadae\Downloads\project\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+C:\Users\nadae\Downloads\project\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+C:\Users\nadae\Downloads\project\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\nadae\Downloads\project\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\nadae\Downloads\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\nadae\Downloads\project\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadae\Downloads\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\nadae\Downloads\project\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\nadae\Downloads\project\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\nadae\Downloads\project\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+C:\Users\nadae\Downloads\project\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+C:\Users\nadae\Downloads\project\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+C:\Users\nadae\Downloads\project\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+C:\Users\nadae\Downloads\project\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+D:\GRADUATION_PROJECT\Backend1\Backend\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+D:\GRADUATION_PROJECT\Backend1\Backend\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+D:\GRADUATION_PROJECT\Backend1\Backend\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+D:\GRADUATION_PROJECT\Backend1\Backend\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+D:\GRADUATION_PROJECT\Backend1\Backend\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+D:\GRADUATION_PROJECT\Backend1\Backend\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+D:\GRADUATION_PROJECT\Backend1\Backend\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\GRADUATION_PROJECT\Backend1\Backend\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+D:\GRADUATION_PROJECT\Backend1\Backend\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+D:\GRADUATION_PROJECT\Backend1\Backend\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+D:\GRADUATION_PROJECT\Backend1\Backend\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+D:\GRADUATION_PROJECT\Backend1\Backend\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+D:\GRADUATION_PROJECT\Backend1\Backend\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+D:\GRADUATION_PROJECT\Backend1\Backend\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+D:\GRADUATION_PROJECT\Backend1\Backend\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+D:\GRADUATION_PROJECT\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+D:\GRADUATION_PROJECT\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+D:\GRADUATION_PROJECT\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+D:\GRADUATION_PROJECT\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+D:\GRADUATION_PROJECT\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+D:\GRADUATION_PROJECT\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+D:\GRADUATION_PROJECT\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\GRADUATION_PROJECT\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+D:\GRADUATION_PROJECT\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+D:\GRADUATION_PROJECT\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+D:\GRADUATION_PROJECT\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+D:\GRADUATION_PROJECT\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+D:\GRADUATION_PROJECT\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+D:\GRADUATION_PROJECT\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+D:\GRADUATION_PROJECT\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+C:\Users\nadae\Downloads\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+C:\Users\nadae\Downloads\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\nadae\Downloads\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\nadae\Downloads\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadae\Downloads\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\nadae\Downloads\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\nadae\Downloads\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\nadae\Downloads\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+C:\Users\nadae\Downloads\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+C:\Users\nadae\Downloads\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+D:\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+D:\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+D:\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+D:\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+D:\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+D:\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+D:\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+D:\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+D:\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+D:\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+D:\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+D:\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+D:\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+D:\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+D:\PROJECTBACKEND1\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+D:\PROJECTBACKEND1\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+D:\PROJECTBACKEND1\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+D:\PROJECTBACKEND1\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+D:\PROJECTBACKEND1\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+D:\PROJECTBACKEND1\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+D:\PROJECTBACKEND1\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTBACKEND1\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+D:\PROJECTBACKEND1\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+D:\PROJECTBACKEND1\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+D:\PROJECTBACKEND1\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+D:\PROJECTBACKEND1\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+D:\PROJECTBACKEND1\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+D:\PROJECTBACKEND1\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+D:\PROJECTBACKEND1\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+D:\PROJECTBACKEND1\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+D:\PROJECTBACKEND1\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+D:\PROJECTBACKEND1\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+D:\PROJECTBACKEND1\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+D:\PROJECTBACKEND1\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+D:\PROJECTBACKEND1\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+D:\PROJECTBACKEND1\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTBACKEND1\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+D:\PROJECTBACKEND1\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+D:\PROJECTBACKEND1\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+D:\PROJECTBACKEND1\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+D:\PROJECTBACKEND1\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+D:\PROJECTBACKEND1\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+D:\PROJECTBACKEND1\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+D:\PROJECTBACKEND1\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+D:\PROJECTBACKEND\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+D:\PROJECTBACKEND\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.dll
+D:\PROJECTBACKEND\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\Project_BLL.pdb
+D:\PROJECTBACKEND\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\project_DAL.dll
+D:\PROJECTBACKEND\PROJECTBACKEND\Project_BLL\bin\Debug\net6.0\project_DAL.pdb
+D:\PROJECTBACKEND\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+D:\PROJECTBACKEND\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTBACKEND\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+D:\PROJECTBACKEND\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+D:\PROJECTBACKEND\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+D:\PROJECTBACKEND\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+D:\PROJECTBACKEND\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.dll
+D:\PROJECTBACKEND\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+D:\PROJECTBACKEND\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\Project_BLL.pdb
+D:\PROJECTBACKEND\PROJECTBACKEND\Project_BLL\obj\Debug\net6.0\ref\Project_BLL.dll

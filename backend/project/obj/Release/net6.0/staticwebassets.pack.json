@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nadae\\Downloads\\PROJECTBACKEND اخر تعديل\\project\\wwwroot\\uploads\\1b27d682-6b05-424a-92c1-f89b07b6d950.wav",
+      "PackagePath": "staticwebassets\\uploads\\1b27d682-6b05-424a-92c1-f89b07b6d950.wav"
+    },
+    {
+      "Id": "C:\\Users\\nadae\\Downloads\\PROJECTBACKEND اخر تعديل\\project\\wwwroot\\uploads\\226306ef-d85e-4ceb-b477-da0ffdcc908f.wav",
+      "PackagePath": "staticwebassets\\uploads\\226306ef-d85e-4ceb-b477-da0ffdcc908f.wav"
+    },
+    {
+      "Id": "C:\\Users\\nadae\\Downloads\\PROJECTBACKEND اخر تعديل\\project\\wwwroot\\uploads\\4a888f68-fde4-4b26-bd67-3987278e5010.wav",
+      "PackagePath": "staticwebassets\\uploads\\4a888f68-fde4-4b26-bd67-3987278e5010.wav"
+    },
+    {
+      "Id": "C:\\Users\\nadae\\Downloads\\PROJECTBACKEND اخر تعديل\\project\\wwwroot\\uploads\\550b7dff-28ed-4b36-8687-a7732eda5354.wav",
+      "PackagePath": "staticwebassets\\uploads\\550b7dff-28ed-4b36-8687-a7732eda5354.wav"
+    },
+    {
+      "Id": "C:\\Users\\nadae\\Downloads\\PROJECTBACKEND اخر تعديل\\project\\wwwroot\\uploads\\7761007e-58d9-4fb4-bd13-cb49516c4ef8.wav",
+      "PackagePath": "staticwebassets\\uploads\\7761007e-58d9-4fb4-bd13-cb49516c4ef8.wav"
+    },
+    {
+      "Id": "C:\\Users\\nadae\\Downloads\\PROJECTBACKEND اخر تعديل\\project\\wwwroot\\uploads\\7e4ce2c6-1d19-4057-8598-0ddb9f26b1d4.wav",
+      "PackagePath": "staticwebassets\\uploads\\7e4ce2c6-1d19-4057-8598-0ddb9f26b1d4.wav"
+    },
+    {
+      "Id": "C:\\Users\\nadae\\Downloads\\PROJECTBACKEND اخر تعديل\\project\\wwwroot\\uploads\\f546a8b4-6825-493a-8c03-5347ffd0ff2e.wav",
+      "PackagePath": "staticwebassets\\uploads\\f546a8b4-6825-493a-8c03-5347ffd0ff2e.wav"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.project.props",
+      "PackagePath": "build\\project.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.project.props",
+      "PackagePath": "buildMultiTargeting\\project.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.project.props",
+      "PackagePath": "buildTransitive\\project.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

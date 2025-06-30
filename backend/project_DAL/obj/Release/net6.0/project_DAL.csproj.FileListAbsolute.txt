@@ -1,0 +1,12 @@
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\bin\Release\net6.0\project_DAL.deps.json
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\bin\Release\net6.0\project_DAL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\bin\Release\net6.0\project_DAL.pdb
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\obj\Release\net6.0\project_DAL.csproj.AssemblyReference.cache
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\obj\Release\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\obj\Release\net6.0\project_DAL.AssemblyInfoInputs.cache
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\obj\Release\net6.0\project_DAL.AssemblyInfo.cs
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\obj\Release\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\obj\Release\net6.0\project_DAL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\obj\Release\net6.0\refint\project_DAL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\obj\Release\net6.0\project_DAL.pdb
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\obj\Release\net6.0\ref\project_DAL.dll

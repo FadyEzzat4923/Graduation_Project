@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "c8sSwkzSebyy5sDGqW6eZxQtA9cOuWuxRD1V4GZqWo8=",
+  "Source": "project",
+  "BasePath": "_content/project",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "project\\wwwroot",
+      "Source": "project",
+      "ContentRoot": "C:\\Users\\nadae\\Downloads\\PROJECTBACKEND اخر تعديل\\project\\wwwroot\\",
+      "BasePath": "_content/project",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

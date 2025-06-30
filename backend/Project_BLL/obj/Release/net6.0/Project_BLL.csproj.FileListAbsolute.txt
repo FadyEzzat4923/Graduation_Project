@@ -1,0 +1,15 @@
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\bin\Release\net6.0\Project_BLL.deps.json
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\bin\Release\net6.0\Project_BLL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\bin\Release\net6.0\Project_BLL.pdb
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\bin\Release\net6.0\project_DAL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\bin\Release\net6.0\project_DAL.pdb
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\obj\Release\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\obj\Release\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\obj\Release\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\obj\Release\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\obj\Release\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\obj\Release\net6.0\Project_.FD033855.Up2Date
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\obj\Release\net6.0\Project_BLL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\obj\Release\net6.0\refint\Project_BLL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\obj\Release\net6.0\Project_BLL.pdb
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\Project_BLL\obj\Release\net6.0\ref\Project_BLL.dll

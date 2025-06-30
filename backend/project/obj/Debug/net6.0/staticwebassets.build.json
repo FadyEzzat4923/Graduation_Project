@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "UL9UW7yUAvgup76Y3aSGMN679chE4xHkcQpvZnbAZYc=",
+  "Source": "project",
+  "BasePath": "_content/project",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "project\\wwwroot",
+      "Source": "project",
+      "ContentRoot": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\wwwroot\\",
+      "BasePath": "_content/project",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

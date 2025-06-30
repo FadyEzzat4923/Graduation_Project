@@ -1,0 +1,278 @@
+F:\Projects\ITI project\js\final project\API project\project\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+F:\Projects\ITI project\js\final project\API project\project\project_DAL\bin\Debug\net6.0\project_DAL.dll
+F:\Projects\ITI project\js\final project\API project\project\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+F:\Projects\ITI project\js\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+F:\Projects\ITI project\js\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\ITI project\js\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+F:\Projects\ITI project\js\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+F:\Projects\ITI project\js\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+F:\Projects\ITI project\js\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.dll
+F:\Projects\ITI project\js\final project\API project\project\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+F:\Projects\ITI project\js\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+F:\Projects\ITI project\js\final project\API project\project\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+C:\Users\infotech\Downloads\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.dll
+C:\Users\infotech\Downloads\final project\API project\project\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+C:\Users\infotech\Downloads\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+C:\Users\infotech\Downloads\final project\API project\project\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+C:\Users\infotech\Downloads\final project\API project\project\project_DAL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\infotech\Downloads\final project\API project\project\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\infotech\Downloads\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+C:\Users\infotech\Downloads\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infotech\Downloads\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+C:\Users\infotech\Downloads\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+C:\Users\infotech\Downloads\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\infotech\Downloads\final project\API project\project\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+D:\project\final\final project\final project\API project\project\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+D:\project\final\final project\final project\API project\project\project_DAL\bin\Debug\net6.0\project_DAL.dll
+D:\project\final\final project\final project\API project\project\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+D:\project\final\final project\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+D:\project\final\final project\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\final\final project\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+D:\project\final\final project\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+D:\project\final\final project\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+D:\project\final\final project\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.sourcelink.json
+D:\project\final\final project\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.dll
+D:\project\final\final project\final project\API project\project\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+D:\project\final\final project\final project\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+D:\project\final\final project\final project\API project\project\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+E:\Api\projectJavascript\API project\project\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+E:\Api\projectJavascript\API project\project\project_DAL\bin\Debug\net6.0\project_DAL.dll
+E:\Api\projectJavascript\API project\project\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+E:\Api\projectJavascript\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+E:\Api\projectJavascript\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Api\projectJavascript\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+E:\Api\projectJavascript\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+E:\Api\projectJavascript\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+E:\Api\projectJavascript\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.sourcelink.json
+E:\Api\projectJavascript\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.dll
+E:\Api\projectJavascript\API project\project\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+E:\Api\projectJavascript\API project\project\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+E:\Api\projectJavascript\API project\project\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+C:\Users\bokyb\Downloads\project\project\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+C:\Users\bokyb\Downloads\project\project\project_DAL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\bokyb\Downloads\project\project\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\bokyb\Downloads\project\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+C:\Users\bokyb\Downloads\project\project\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bokyb\Downloads\project\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+C:\Users\bokyb\Downloads\project\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+C:\Users\bokyb\Downloads\project\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\bokyb\Downloads\project\project\project_DAL\obj\Debug\net6.0\project_DAL.dll
+C:\Users\bokyb\Downloads\project\project\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+C:\Users\bokyb\Downloads\project\project\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+C:\Users\bokyb\Downloads\project\project\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+C:\Users\bokyb\Downloads\project (1)\project\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+C:\Users\bokyb\Downloads\project (1)\project\project_DAL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\bokyb\Downloads\project (1)\project\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\bokyb\Downloads\project (1)\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+C:\Users\bokyb\Downloads\project (1)\project\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bokyb\Downloads\project (1)\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+C:\Users\bokyb\Downloads\project (1)\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+C:\Users\bokyb\Downloads\project (1)\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\bokyb\Downloads\project (1)\project\project_DAL\obj\Debug\net6.0\project_DAL.dll
+C:\Users\bokyb\Downloads\project (1)\project\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+C:\Users\bokyb\Downloads\project (1)\project\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+C:\Users\bokyb\Downloads\project (1)\project\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+C:\Users\nadae\Downloads\project (1)\project\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+C:\Users\nadae\Downloads\project (1)\project\project_DAL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\nadae\Downloads\project (1)\project\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\nadae\Downloads\project (1)\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+C:\Users\nadae\Downloads\project (1)\project\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadae\Downloads\project (1)\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+C:\Users\nadae\Downloads\project (1)\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+C:\Users\nadae\Downloads\project (1)\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\nadae\Downloads\project (1)\project\project_DAL\obj\Debug\net6.0\project_DAL.dll
+C:\Users\nadae\Downloads\project (1)\project\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+C:\Users\nadae\Downloads\project (1)\project\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+C:\Users\nadae\Downloads\project (1)\project\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+C:\Users\bokyb\Downloads\Project\Project\project\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+C:\Users\bokyb\Downloads\Project\Project\project\project_DAL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\bokyb\Downloads\Project\Project\project\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\bokyb\Downloads\Project\Project\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+C:\Users\bokyb\Downloads\Project\Project\project\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bokyb\Downloads\Project\Project\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+C:\Users\bokyb\Downloads\Project\Project\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+C:\Users\bokyb\Downloads\Project\Project\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\bokyb\Downloads\Project\Project\project\project_DAL\obj\Debug\net6.0\project_DAL.dll
+C:\Users\bokyb\Downloads\Project\Project\project\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+C:\Users\bokyb\Downloads\Project\Project\project\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+C:\Users\bokyb\Downloads\Project\Project\project\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+C:\Users\nadae\Downloads\Project\Project\project\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+C:\Users\nadae\Downloads\Project\Project\project\project_DAL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\nadae\Downloads\Project\Project\project\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\nadae\Downloads\Project\Project\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+C:\Users\nadae\Downloads\Project\Project\project\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadae\Downloads\Project\Project\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+C:\Users\nadae\Downloads\Project\Project\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+C:\Users\nadae\Downloads\Project\Project\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\nadae\Downloads\Project\Project\project\project_DAL\obj\Debug\net6.0\project_DAL.dll
+C:\Users\nadae\Downloads\Project\Project\project\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+C:\Users\nadae\Downloads\Project\Project\project\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+C:\Users\nadae\Downloads\Project\Project\project\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+E:\Finalllllllllllllllllllllll\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+E:\Finalllllllllllllllllllllll\project\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Finalllllllllllllllllllllll\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+E:\Finalllllllllllllllllllllll\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+E:\Finalllllllllllllllllllllll\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+E:\Finalllllllllllllllllllllll\project\project_DAL\obj\Debug\net6.0\project_DAL.dll
+E:\Finalllllllllllllllllllllll\project\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+E:\Finalllllllllllllllllllllll\project\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+E:\Finalllllllllllllllllllllll\project\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+E:\Finalllllllllllllllllllllll\project\project_DAL\bin\Debug\net6.0\project_DAL.dll
+E:\Finalllllllllllllllllllllll\project\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+E:\Finalllllllllllllllllllllll\project\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+E:\testtt\project\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+E:\testtt\project\project_DAL\bin\Debug\net6.0\project_DAL.dll
+E:\testtt\project\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+E:\testtt\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+E:\testtt\project\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\testtt\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+E:\testtt\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+E:\testtt\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+E:\testtt\project\project_DAL\obj\Debug\net6.0\project_DAL.dll
+E:\testtt\project\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+E:\testtt\project\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+E:\testtt\project\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+E:\Designs_Front\project\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+E:\Designs_Front\project\project_DAL\bin\Debug\net6.0\project_DAL.dll
+E:\Designs_Front\project\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+E:\Designs_Front\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+E:\Designs_Front\project\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Designs_Front\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+E:\Designs_Front\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+E:\Designs_Front\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+E:\Designs_Front\project\project_DAL\obj\Debug\net6.0\project_DAL.dll
+E:\Designs_Front\project\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+E:\Designs_Front\project\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+E:\Designs_Front\project\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+C:\Users\nadae\Downloads\project\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+C:\Users\nadae\Downloads\project\project_DAL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\nadae\Downloads\project\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\nadae\Downloads\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+C:\Users\nadae\Downloads\project\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadae\Downloads\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+C:\Users\nadae\Downloads\project\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+C:\Users\nadae\Downloads\project\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\nadae\Downloads\project\project_DAL\obj\Debug\net6.0\project_DAL.dll
+C:\Users\nadae\Downloads\project\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+C:\Users\nadae\Downloads\project\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+C:\Users\nadae\Downloads\project\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+D:\GRADUATION_PROJECT\Backend1\Backend\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+D:\GRADUATION_PROJECT\Backend1\Backend\project_DAL\bin\Debug\net6.0\project_DAL.dll
+D:\GRADUATION_PROJECT\Backend1\Backend\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+D:\GRADUATION_PROJECT\Backend1\Backend\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+D:\GRADUATION_PROJECT\Backend1\Backend\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\GRADUATION_PROJECT\Backend1\Backend\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+D:\GRADUATION_PROJECT\Backend1\Backend\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+D:\GRADUATION_PROJECT\Backend1\Backend\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+D:\GRADUATION_PROJECT\Backend1\Backend\project_DAL\obj\Debug\net6.0\project_DAL.dll
+D:\GRADUATION_PROJECT\Backend1\Backend\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+D:\GRADUATION_PROJECT\Backend1\Backend\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+D:\GRADUATION_PROJECT\Backend1\Backend\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.dll
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+C:\Users\c.city\OneDrive\Desktop\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+D:\GRADUATION_PROJECT\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+D:\GRADUATION_PROJECT\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.dll
+D:\GRADUATION_PROJECT\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+D:\GRADUATION_PROJECT\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+D:\GRADUATION_PROJECT\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\GRADUATION_PROJECT\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+D:\GRADUATION_PROJECT\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+D:\GRADUATION_PROJECT\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+D:\GRADUATION_PROJECT\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.dll
+D:\GRADUATION_PROJECT\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+D:\GRADUATION_PROJECT\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+D:\GRADUATION_PROJECT\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+C:\Users\nadae\Downloads\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\nadae\Downloads\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+C:\Users\nadae\Downloads\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadae\Downloads\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+C:\Users\nadae\Downloads\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+C:\Users\nadae\Downloads\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\nadae\Downloads\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+C:\Users\nadae\Downloads\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.dll
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+C:\Users\c.city\OneDrive\Desktop\MomsHood\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\bin\Debug\net6.0\project_DAL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\obj\Debug\net6.0\project_DAL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+C:\Users\nadae\Downloads\PROJECTBACKEND اخر تعديل\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+D:\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+D:\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.dll
+D:\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+D:\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+D:\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+D:\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+D:\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+D:\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.dll
+D:\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+D:\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+D:\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+D:\PROJECTBACKEND1\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+D:\PROJECTBACKEND1\project_DAL\bin\Debug\net6.0\project_DAL.dll
+D:\PROJECTBACKEND1\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+D:\PROJECTBACKEND1\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+D:\PROJECTBACKEND1\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTBACKEND1\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+D:\PROJECTBACKEND1\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+D:\PROJECTBACKEND1\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+D:\PROJECTBACKEND1\project_DAL\obj\Debug\net6.0\project_DAL.dll
+D:\PROJECTBACKEND1\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+D:\PROJECTBACKEND1\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+D:\PROJECTBACKEND1\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+D:\PROJECTBACKEND1\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+D:\PROJECTBACKEND1\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.dll
+D:\PROJECTBACKEND1\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+D:\PROJECTBACKEND1\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+D:\PROJECTBACKEND1\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTBACKEND1\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+D:\PROJECTBACKEND1\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+D:\PROJECTBACKEND1\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+D:\PROJECTBACKEND1\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.dll
+D:\PROJECTBACKEND1\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+D:\PROJECTBACKEND1\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+D:\PROJECTBACKEND1\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll
+D:\PROJECTBACKEND\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.deps.json
+D:\PROJECTBACKEND\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.dll
+D:\PROJECTBACKEND\PROJECTBACKEND\project_DAL\bin\Debug\net6.0\project_DAL.pdb
+D:\PROJECTBACKEND\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.csproj.AssemblyReference.cache
+D:\PROJECTBACKEND\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTBACKEND\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfoInputs.cache
+D:\PROJECTBACKEND\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.AssemblyInfo.cs
+D:\PROJECTBACKEND\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.csproj.CoreCompileInputs.cache
+D:\PROJECTBACKEND\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.dll
+D:\PROJECTBACKEND\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\refint\project_DAL.dll
+D:\PROJECTBACKEND\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\project_DAL.pdb
+D:\PROJECTBACKEND\PROJECTBACKEND\project_DAL\obj\Debug\net6.0\ref\project_DAL.dll

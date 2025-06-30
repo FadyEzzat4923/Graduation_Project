@@ -1,0 +1,668 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|d:\\projectbackend\\projectbackend\\project\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|solutionrelative:project\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|d:\\projectbackend\\projectbackend\\project_dal\\entities\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|solutionrelative:project_dal\\entities\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|d:\\projectbackend\\projectbackend\\project\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|solutionrelative:project\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|d:\\projectbackend\\projectbackend\\project\\controllers\\babyrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|solutionrelative:project\\controllers\\babyrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|d:\\projectbackend\\projectbackend\\project\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|solutionrelative:project\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|d:\\projectbackend\\projectbackend\\project_dal\\entities\\chat\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|solutionrelative:project_dal\\entities\\chat\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|d:\\projectbackend\\projectbackend\\project_dal\\entities\\chat\\messagedeleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|solutionrelative:project_dal\\entities\\chat\\messagedeleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|d:\\projectbackend\\projectbackend\\project\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|solutionrelative:project\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|d:\\projectbackend\\projectbackend\\project\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|solutionrelative:project\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|d:\\projectbackend\\projectbackend\\project\\dtos\\verifyresetcodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|solutionrelative:project\\dtos\\verifyresetcodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|d:\\projectbackend\\projectbackend\\project\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|solutionrelative:project\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|d:\\projectbackend\\projectbackend\\project\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|solutionrelative:project\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|d:\\projectbackend\\projectbackend\\project\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|solutionrelative:project\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|d:\\projectbackend\\projectbackend\\project\\dtos\\producttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|solutionrelative:project\\dtos\\producttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|d:\\projectbackend\\projectbackend\\project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|solutionrelative:project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|d:\\projectbackend\\projectbackend\\project\\dtos\\productdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|solutionrelative:project\\dtos\\productdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|d:\\projectbackend\\projectbackend\\project\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|solutionrelative:project\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|d:\\projectbackend\\projectbackend\\project\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|solutionrelative:project\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|d:\\projectbackend\\projectbackend\\project\\dtos\\filedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|solutionrelative:project\\dtos\\filedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|d:\\projectbackend\\projectbackend\\project_dal\\data\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|solutionrelative:project_dal\\data\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|d:\\projectbackend\\projectbackend\\project_dal\\specification\\productwithuseridspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|solutionrelative:project_dal\\specification\\productwithuseridspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1B01D6-308D-4D4B-9241-B07B84804C53}|Project_BLL\\Project_BLL.csproj|d:\\projectbackend\\projectbackend\\project_bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1B01D6-308D-4D4B-9241-B07B84804C53}|Project_BLL\\Project_BLL.csproj|solutionrelative:project_bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|d:\\projectbackend\\projectbackend\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D569EA-73DD-497E-AA5D-EB7FDBDAF1C9}|project\\project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1B01D6-308D-4D4B-9241-B07B84804C53}|Project_BLL\\Project_BLL.csproj|d:\\projectbackend\\projectbackend\\project_bll\\helpers\\producttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1B01D6-308D-4D4B-9241-B07B84804C53}|Project_BLL\\Project_BLL.csproj|solutionrelative:project_bll\\helpers\\producttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|d:\\projectbackend\\projectbackend\\project_dal\\specification\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|solutionrelative:project_dal\\specification\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|d:\\projectbackend\\projectbackend\\project_dal\\specification\\basespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|solutionrelative:project_dal\\specification\\basespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|d:\\projectbackend\\projectbackend\\project_dal\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|solutionrelative:project_dal\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|d:\\projectbackend\\projectbackend\\project_dal\\specification\\productspec\\productwithfiltertioncountspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|solutionrelative:project_dal\\specification\\productspec\\productwithfiltertioncountspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|d:\\projectbackend\\projectbackend\\project_dal\\specification\\productspec\\productkeywordsearchspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|solutionrelative:project_dal\\specification\\productspec\\productkeywordsearchspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|d:\\projectbackend\\projectbackend\\project_dal\\specification\\productspec\\allproductspram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|solutionrelative:project_dal\\specification\\productspec\\allproductspram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|d:\\projectbackend\\projectbackend\\project_dal\\entities\\product\\savedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|solutionrelative:project_dal\\entities\\product\\savedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|d:\\projectbackend\\projectbackend\\project_dal\\specification\\savedproductwithuseridspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|solutionrelative:project_dal\\specification\\savedproductwithuseridspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1B01D6-308D-4D4B-9241-B07B84804C53}|Project_BLL\\Project_BLL.csproj|d:\\projectbackend\\projectbackend\\project_bll\\helpers\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1B01D6-308D-4D4B-9241-B07B84804C53}|Project_BLL\\Project_BLL.csproj|solutionrelative:project_bll\\helpers\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PROJECTBACKEND\\project_DAL\\Migrations\\20250421111816_Motherhood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|d:\\projectbackend\\projectbackend\\project_dal\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|solutionrelative:project_dal\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|d:\\projectbackend\\projectbackend\\project_dal\\contract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|solutionrelative:project_dal\\contract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|d:\\projectbackend\\projectbackend\\project_dal\\contract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|solutionrelative:project_dal\\contract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|d:\\projectbackend\\projectbackend\\project_dal\\project_dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|solutionrelative:project_dal\\project_dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|d:\\projectbackend\\projectbackend\\project_dal\\identity\\appidentitydbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|solutionrelative:project_dal\\identity\\appidentitydbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|d:\\projectbackend\\projectbackend\\project_dal\\migrations\\20250430131148_motherhood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A54BA-2A9A-4F8E-9239-3A5D0FD05C08}|project_DAL\\project_DAL.csproj|solutionrelative:project_dal\\migrations\\20250430131148_motherhood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 167,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BabyRecordController.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Controllers\\BabyRecordController.cs",
+              "RelativeDocumentMoniker": "project\\Controllers\\BabyRecordController.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Controllers\\BabyRecordController.cs",
+              "RelativeToolTip": "project\\Controllers\\BabyRecordController.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAuwOoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T20:07:56.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250430131148_Motherhood.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Migrations\\20250430131148_Motherhood.cs",
+              "RelativeDocumentMoniker": "project_DAL\\Migrations\\20250430131148_Motherhood.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Migrations\\20250430131148_Motherhood.cs",
+              "RelativeToolTip": "project_DAL\\Migrations\\20250430131148_Motherhood.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:11:48.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "project\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "project\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAAAKYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:52:38.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "project\\Dtos\\ProductDto.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "project\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:42:51.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Entities\\Product\\Product.cs",
+              "RelativeDocumentMoniker": "project_DAL\\Entities\\Product\\Product.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Entities\\Product\\Product.cs",
+              "RelativeToolTip": "project_DAL\\Entities\\Product\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:37:36.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageDeleted.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Entities\\Chat\\MessageDeleted.cs",
+              "RelativeDocumentMoniker": "project_DAL\\Entities\\Chat\\MessageDeleted.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Entities\\Chat\\MessageDeleted.cs",
+              "RelativeToolTip": "project_DAL\\Entities\\Chat\\MessageDeleted.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:22:59.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "project\\Controllers\\MessagesController.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "project\\Controllers\\MessagesController.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:07:54.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Entities\\Chat\\Message.cs",
+              "RelativeDocumentMoniker": "project_DAL\\Entities\\Chat\\Message.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Entities\\Chat\\Message.cs",
+              "RelativeToolTip": "project_DAL\\Entities\\Chat\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:06:57.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MessageDto.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\MessageDto.cs",
+              "RelativeDocumentMoniker": "project\\Dtos\\MessageDto.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\MessageDto.cs",
+              "RelativeToolTip": "project\\Dtos\\MessageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:05:42.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "project\\Dtos\\UpdateProfileDto.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\UpdateProfileDto.cs",
+              "RelativeToolTip": "project\\Dtos\\UpdateProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:50:34.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "project\\Dtos\\RegisterDto.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "project\\Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:50:28.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "project\\Dtos\\ResetPasswordDto.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\ResetPasswordDto.cs",
+              "RelativeToolTip": "project\\Dtos\\ResetPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:12:05.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VerifyResetCodeDto.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\VerifyResetCodeDto.cs",
+              "RelativeDocumentMoniker": "project\\Dtos\\VerifyResetCodeDto.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\VerifyResetCodeDto.cs",
+              "RelativeToolTip": "project\\Dtos\\VerifyResetCodeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:32:02.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "project\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "project\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAAABcBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:00:44.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "project\\Dtos\\UserDto.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "project\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:36:26.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDetailsDto.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\ProductDetailsDto.cs",
+              "RelativeDocumentMoniker": "project\\Dtos\\ProductDetailsDto.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\ProductDetailsDto.cs",
+              "RelativeToolTip": "project\\Dtos\\ProductDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T15:48:39.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductToReturnDto.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\ProductToReturnDto.cs",
+              "RelativeDocumentMoniker": "project\\Dtos\\ProductToReturnDto.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\ProductToReturnDto.cs",
+              "RelativeToolTip": "project\\Dtos\\ProductToReturnDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T15:27:47.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ForgotPasswordDto.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\ForgotPasswordDto.cs",
+              "RelativeDocumentMoniker": "project\\Dtos\\ForgotPasswordDto.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\ForgotPasswordDto.cs",
+              "RelativeToolTip": "project\\Dtos\\ForgotPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:35:25.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "project\\Dtos\\LoginDto.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "project\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:35:30.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FileDto.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\FileDto.cs",
+              "RelativeDocumentMoniker": "project\\Dtos\\FileDto.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Dtos\\FileDto.cs",
+              "RelativeToolTip": "project\\Dtos\\FileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:35:22.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TokenRequest.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Data\\TokenRequest.cs",
+              "RelativeDocumentMoniker": "project_DAL\\Data\\TokenRequest.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Data\\TokenRequest.cs",
+              "RelativeToolTip": "project_DAL\\Data\\TokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:16:11.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductWithUserIdSpecification.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Specification\\ProductWithUserIdSpecification.cs",
+              "RelativeDocumentMoniker": "project_DAL\\Specification\\ProductWithUserIdSpecification.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Specification\\ProductWithUserIdSpecification.cs",
+              "RelativeToolTip": "project_DAL\\Specification\\ProductWithUserIdSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:55:08.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\Project_BLL\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Project_BLL\\Services\\ProductService.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\Project_BLL\\Services\\ProductService.cs",
+              "RelativeToolTip": "Project_BLL\\Services\\ProductService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAASwFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:55:26.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductToReturnDto.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\Project_BLL\\Helpers\\ProductToReturnDto.cs",
+              "RelativeDocumentMoniker": "Project_BLL\\Helpers\\ProductToReturnDto.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\Project_BLL\\Helpers\\ProductToReturnDto.cs",
+              "RelativeToolTip": "Project_BLL\\Helpers\\ProductToReturnDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:55:10.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Program.cs",
+              "RelativeDocumentMoniker": "project\\Program.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project\\Program.cs",
+              "RelativeToolTip": "project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T15:21:35.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseSpecifications.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Specification\\BaseSpecifications.cs",
+              "RelativeDocumentMoniker": "project_DAL\\Specification\\BaseSpecifications.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Specification\\BaseSpecifications.cs",
+              "RelativeToolTip": "project_DAL\\Specification\\BaseSpecifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:49:23.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Specification\\ISpecification.cs",
+              "RelativeDocumentMoniker": "project_DAL\\Specification\\ISpecification.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Specification\\ISpecification.cs",
+              "RelativeToolTip": "project_DAL\\Specification\\ISpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:49:29.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "project_DAL\\Identity\\AppUser.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Identity\\AppUser.cs",
+              "RelativeToolTip": "project_DAL\\Identity\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:55:29.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductWithFiltertionCountSpec.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Specification\\ProductSpec\\ProductWithFiltertionCountSpec.cs",
+              "RelativeDocumentMoniker": "project_DAL\\Specification\\ProductSpec\\ProductWithFiltertionCountSpec.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Specification\\ProductSpec\\ProductWithFiltertionCountSpec.cs",
+              "RelativeToolTip": "project_DAL\\Specification\\ProductSpec\\ProductWithFiltertionCountSpec.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:26:10.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductKeywordSearchSpecification.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Specification\\ProductSpec\\ProductKeywordSearchSpecification.cs",
+              "RelativeDocumentMoniker": "project_DAL\\Specification\\ProductSpec\\ProductKeywordSearchSpecification.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Specification\\ProductSpec\\ProductKeywordSearchSpecification.cs",
+              "RelativeToolTip": "project_DAL\\Specification\\ProductSpec\\ProductKeywordSearchSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:55:03.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AllProductsPram.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Specification\\ProductSpec\\AllProductsPram.cs",
+              "RelativeDocumentMoniker": "project_DAL\\Specification\\ProductSpec\\AllProductsPram.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Specification\\ProductSpec\\AllProductsPram.cs",
+              "RelativeToolTip": "project_DAL\\Specification\\ProductSpec\\AllProductsPram.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:56:06.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SavedProduct.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Entities\\Product\\SavedProduct.cs",
+              "RelativeDocumentMoniker": "project_DAL\\Entities\\Product\\SavedProduct.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Entities\\Product\\SavedProduct.cs",
+              "RelativeToolTip": "project_DAL\\Entities\\Product\\SavedProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:25:47.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SavedProductWithUserIdSpecification.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Specification\\SavedProductWithUserIdSpecification.cs",
+              "RelativeDocumentMoniker": "project_DAL\\Specification\\SavedProductWithUserIdSpecification.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Specification\\SavedProductWithUserIdSpecification.cs",
+              "RelativeToolTip": "project_DAL\\Specification\\SavedProductWithUserIdSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:55:06.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductPictureUrlResolver.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\Project_BLL\\Helpers\\ProductPictureUrlResolver.cs",
+              "RelativeDocumentMoniker": "Project_BLL\\Helpers\\ProductPictureUrlResolver.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\Project_BLL\\Helpers\\ProductPictureUrlResolver.cs",
+              "RelativeToolTip": "Project_BLL\\Helpers\\ProductPictureUrlResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:55:02.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "project_DAL\\Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "project_DAL\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:59:28.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250421111816_Motherhood.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\project_DAL\\Migrations\\20250421111816_Motherhood.cs",
+              "RelativeDocumentMoniker": "..\\project_DAL\\Migrations\\20250421111816_Motherhood.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\project_DAL\\Migrations\\20250421111816_Motherhood.cs",
+              "RelativeToolTip": "..\\project_DAL\\Migrations\\20250421111816_Motherhood.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:18:16.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Contract\\IProductService.cs",
+              "RelativeDocumentMoniker": "project_DAL\\Contract\\IProductService.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Contract\\IProductService.cs",
+              "RelativeToolTip": "project_DAL\\Contract\\IProductService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:01:19.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Contract\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "project_DAL\\Contract\\IGenericRepository.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Contract\\IGenericRepository.cs",
+              "RelativeToolTip": "project_DAL\\Contract\\IGenericRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:43:41.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "project_DAL.csproj",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\project_DAL.csproj",
+              "RelativeDocumentMoniker": "project_DAL\\project_DAL.csproj",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\project_DAL.csproj",
+              "RelativeToolTip": "project_DAL\\project_DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-21T10:32:29.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppIdentityDbContextSeed.cs",
+              "DocumentMoniker": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Identity\\AppIdentityDbContextSeed.cs",
+              "RelativeDocumentMoniker": "project_DAL\\Identity\\AppIdentityDbContextSeed.cs",
+              "ToolTip": "D:\\PROJECTBACKEND\\PROJECTBACKEND\\project_DAL\\Identity\\AppIdentityDbContextSeed.cs",
+              "RelativeToolTip": "project_DAL\\Identity\\AppIdentityDbContextSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:36:32.515Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
